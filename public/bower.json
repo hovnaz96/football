@@ -1,0 +1,20 @@
+{
+  "name": "public",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Hovo Nazaryan <hovnazaryan98@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "cropit": "^0.5.1"
+  }
+}
